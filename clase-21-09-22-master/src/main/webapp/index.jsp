@@ -9,17 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Pagina 1</title>
+        <title>Proyecto DSBB</title>
     </head>
     <body>
-        <h1>Hola mundillo</h1>
-        <a href="control">Verificar servlet  objecto response</a>
-        <form action="control" method="GET">
-            <label>Nombres: </label>
-            <input type="text" name="txt_nombres" required="true">
-            <label>Apellidos: </label>           
-            <input type="text" name="txt_apellidos" required="true">
-            <button type="submit" name="btnRegistrar" value="Registrar">Registrar   </button>
-        </form>
+        <h1>Daniel Steven Beltran Barrios</h1>
     </body>
 </html>
